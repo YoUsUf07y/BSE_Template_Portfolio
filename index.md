@@ -17,7 +17,7 @@ My second milestone is
 
 [![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone")
   
-
+# First Milestone
 My first milestone was to complete the H-bridge and make the motors spin. An H-bridge is a circuit that allows you to control a DC motor to make it go backward or forward. To make the motors spin, I had to complete the H-Bridge. To do this I connect the motors to the arduino and the battery pack through the H-bridge, which is how they are able to move. The arduino addresses each motor and both its pins using the locations where the jumper wires were plugged in on the arduino, and it tells one pin to go high and the other to go low for the motors to spin one direction, and then uses the opposite set up for the motors to spin the opposite direction.  When I plug the code into the arduino, the motors spin going clockwise and counter-clockwise.
 
 
